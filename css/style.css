@@ -240,6 +240,10 @@ h6 {
   #colorlib-main-nav ul {
     padding: 20px 0 0 0;
   }
+
+  .mobile_font_size {
+    font-size: 90px;
+  }
 }
 
 #colorlib-main-nav ul li {
@@ -364,6 +368,10 @@ h6 {
 @media screen and (max-width: 480px) {
   #colorlib-main-nav .gallery {
     width: 50%;
+  }
+
+  .mobile_font_size {
+    font-size: 90px !important;
   }
 }
 
